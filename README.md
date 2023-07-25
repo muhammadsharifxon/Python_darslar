@@ -1,2 +1,2 @@
 # Python_darslar
-Assalomu Alaykum huratli dasturchilar siz repazitoriyda Python dasturlash tilidan boshlang'ichi bilimlar jamlangan. Ko'rip chiqing manfaatli bo'lsa foydalaning.
+Assalomu Alaykum hurmatli dasturchilar ushbu repazitoriyda Python dasturlash tilidan boshlang'ich bilimlar jamlangan. Ko'rip chiqing manfaatli bo'lsa foydalaning.
